@@ -1,0 +1,24 @@
+*{
+    background-color:wheat;
+    margin-top: -0.3%;
+    margin-left: 1px;
+}
+th,td{
+    padding: 5px;
+    background-color: rgba(150, 212, 212, 0.4);
+    border-bottom: 1px solid #ddd;
+    
+    
+}
+tr:hover{
+    background-color: rgb(50, 90, 12);
+    display:list-item;
+   
+}
+h1{
+    
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 1px;
+    
+
+}

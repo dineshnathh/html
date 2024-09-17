@@ -43,7 +43,7 @@ body{
     right: 0;
     width: 8em;
     height: 8em;
-    animation: orbit 2.7s linear infinite;
+    animation: orbit 10.7s linear infinite;
 }
 .earth::before,
 .moon::before{
@@ -57,7 +57,7 @@ body{
     right: 2.8em;
     height: 3em;
     width: 3em;
-    background-color: aqua;
+    background-color: blue;
 }
 .moon::before{
     top: 0.8em;
